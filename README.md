@@ -1,18 +1,18 @@
-# Walmart-Retail-Data-Analysis-Using-Tableau
+## Walmart-Retail-Data-Analysis-Using-Tableau
 
-## PROJECT NAME:
+# PROJECT NAME:
 
 #### Walmart Retail Data Analysis Using Tableau Dashboards - A Tableau Analysis Project
 
-## ABOUT PROJECT:
+# ABOUT PROJECT:
 
 Developed Walmart Retail Data Dashboard which tracks the Profit, Sales and Discount in different categories. It's a Business ready Dashboard that allows employees to make data-driven decisions by evaluating each Metric. It is a dynamic dashboard.
 
-## ABOUT DATA:
+# ABOUT DATA:
 
 The Walmart Retail data has 26 fields (city, customer name, order date, etc.) and 8399 rows.
 
-### Query:
+# Query:
   
   1. Show the distribution of avg profit by states. 
   2. Analyze which state is generating more average profit and which is going in loss.
@@ -22,7 +22,7 @@ The Walmart Retail data has 26 fields (city, customer name, order date, etc.) an
   6. Show the average discount
   7. Regional quarterly profit
 
-## FINDINGS:
+# FINDINGS:
   
   1. South Dakota has the highest average profit $706 and Montana has the least profit -$186.
   
